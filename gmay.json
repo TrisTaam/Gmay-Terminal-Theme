@@ -28,7 +28,7 @@
           "foreground": "#193549",
           "powerline_symbol": "\ue0b0",
           "properties": {
-            "time_format": "2006-01-02 15:04:05"
+            "time_format": "02-01-2006 15:04:05"
           },
           "style": "powerline",
           "template": " {{ .CurrentDate | date .Format }} ",
@@ -82,7 +82,7 @@
     },
     {
       "alignment": "left",
-      "newline": true,
+      "newline": false,
       "segments": [
         {
           "foreground": "#f1184c",
