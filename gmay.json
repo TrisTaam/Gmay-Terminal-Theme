@@ -13,13 +13,6 @@
           "type": "os"
         },
         {
-          "background": "#3A86FF",
-          "foreground": "#ffffff",
-          "style": "powerline",
-          "template": " {{ .UserName }} ",
-          "type": "session"
-        },
-        {
           "background": "#ff479c",
           "foreground": "#ffffff",
           "powerline_symbol": "\ue0b0",
