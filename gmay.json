@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/TrisTaam/Gmay-Terminal-Theme/main/gmay.json",
+  "$schema": "https://raw.githubusercontent.com/TrisTaam/Gmay-Terminal-Theme/main/schema.json",
   "blocks": [
     {
       "alignment": "left",
